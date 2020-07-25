@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, My name is Vinamra Sareen and
+My name is Vinamra Sareen and
 
 - 🔭 I’m currently working on Meetbeans.com
 - 🌱 I’m currently learning about media streaming, js advanced topics
