@@ -2,7 +2,7 @@
 
 My name is Vinamra Sareen and
 
-- 🔭 I’m currently working on Meetbeans.com
+- 🔭 I’m currently working on Yogya.ai
 - 🌱 I’m currently learning about media streaming, js advanced topics
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with performance with media streaming 
