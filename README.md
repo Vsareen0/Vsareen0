@@ -2,10 +2,9 @@
 
 My name is Vinamra Sareen and
 
-- 🔭 I’m currently working on Yogya.ai
-- 🌱 I’m currently learning about media streaming, js advanced topics
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with performance with media streaming 
+- 🔭 I’m currently working with Gaussian Networks (Adda52Rummy)
+- 🌱 I’m currently learning js advanced topics, system design 
+- 🤔 I found distributed systems fascinating. 
 - 💬 Ask me about web fundamentals
 - 📫 How to reach me: [twitter.me](https://twitter.com/VinamraSareen)
 - ⚡ Fun fact: I love reading well formatted and meaningful documentations.
