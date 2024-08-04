@@ -8,6 +8,7 @@ My name is Vinamra Sareen and
 - 💬 Ask me about web fundamentals
 - 📫 How to reach me: [twitter.me](https://twitter.com/VinamraSareen)
 - ⚡ Fun fact: I love reading well formatted and meaningful documentations.
+- Contributing to OSS projects: DiceDB
 
 ![Vinamra's github stats](https://github-readme-stats.vercel.app/api?username=Vsareen0&count_private=true&theme=tokyonight)
 
