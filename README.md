@@ -2,7 +2,7 @@
 
 My name is Vinamra Sareen and
 
-- 🔭 I’m currently working with Gaussian Networks (Adda52Rummy)
+- 🔭 I’m working as SDE-2 at Highlevel
 - 🌱 I’m currently learning js advanced topics, system design 
 - 🤔 I found distributed systems fascinating. 
 - 💬 Ask me about web fundamentals
