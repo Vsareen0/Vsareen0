@@ -2,7 +2,7 @@
 
 My name is Vinamra Sareen and
 
-- 🔭 I’m working as SDE-2 at Highlevel
+- 🔭 I’m working as SDE-3 at Highlevel
 - 🌱 I’m currently learning js advanced topics, system design 
 - 🤔 I found distributed systems fascinating. 
 - 💬 Ask me about web fundamentals
